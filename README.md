@@ -1,3 +1,3 @@
 # Nitish-demo
 this is first  repository
-author nitish kumar
+author nitish kumar(sbsstc)
